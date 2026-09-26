@@ -1,8 +1,8 @@
-# Terms of Use – Fotu: AI Headshot Generator
+# Terms of Use – FOTU: AI Headshot Generator
 Last Updated: [2026/9/26]
 
 # 1. Acceptance of Terms
-By downloading, installing, or using the Fotu application (the "Application"), you agree to be bound by these Terms of Use. If you do not agree, please do not use the Application.
+By downloading, installing, or using the FOTU application (the "Application"), you agree to be bound by these Terms of Use. If you do not agree, please do not use the Application.
 
 # 2. License Grant
 We grant you a limited, non-exclusive, non-transferable, revocable license to use the Application on a device you own or control, strictly in accordance with these Terms.
@@ -50,7 +50,7 @@ The Application is provided "as is" and "as available" without warranties of any
 If you use the Application outside of a Wi-Fi area, your mobile provider’s terms still apply and you may incur data or roaming charges. It is your responsibility to manage these costs.
 
 # 9. Limitation of Liability
-To the maximum extent permitted by law, Fotu shall not be liable for any indirect, incidental, special, consequential, or punitive damages, including loss of data or profits, or the rejection of a photo by any authority or third party, arising from your use of the Application.
+To the maximum extent permitted by law, FOTU shall not be liable for any indirect, incidental, special, consequential, or punitive damages, including loss of data or profits, or the rejection of a photo by any authority or third party, arising from your use of the Application.
 
 # 10. Termination
 We may suspend or terminate your access to the Application at any time if you violate these Terms. Upon termination, you must cease using and delete the Application.
